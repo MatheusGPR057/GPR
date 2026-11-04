@@ -1,0 +1,25 @@
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Documentos e arquivos enviados
+documentos/
+
+# Cópias de segurança
+*backup*
+GPR_BACKUP/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Configurações e segredos
+.env
+.streamlit/secrets.toml
+
+# Arquivos temporários
+*.log
+.DS_Store
